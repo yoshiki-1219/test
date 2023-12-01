@@ -1,1 +1,2 @@
-That is a Dog
+That is a Dog.
+That is a cat.
